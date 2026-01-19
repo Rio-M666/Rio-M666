@@ -1,4 +1,4 @@
-# Rio-M666-
+# Rio-M666
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rio-M666&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rio-M666&theme=gruvbox)
