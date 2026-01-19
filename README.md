@@ -1,6 +1,6 @@
 # Rio-M666
 ## Stats
-![Tech Stack](https://skillicons.dev/icons?i=js,typescript,nextjs,c,docker)
+![Tech Stack](https://skillicons.dev/icons?i=c,typescript,nextjs,,docker)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rio-M666&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rio-M666&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rio-M666&theme=gruvbox)
